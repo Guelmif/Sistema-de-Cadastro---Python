@@ -9,7 +9,7 @@
 <b>3. Remover um item do estoque</b>
 <p>Permite remover itens cadastrados no sistema</p>
 <b>4. Consultar item</b>
-<p>Permite cosultar um item específico no estoque do sistema</p>
+<p>Permite consultar um item específico no estoque do sistema</p>
 <b>5. Sair</b>
 <p>Encerra o sistema</p>
 <br><br>
